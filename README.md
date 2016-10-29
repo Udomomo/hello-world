@@ -1,2 +1,2 @@
 # hello-world
-I wandered for a long, and found github. Seems nice.
+I wandered for a long time, and found github. Seems nice.
